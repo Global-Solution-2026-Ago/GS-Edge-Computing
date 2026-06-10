@@ -36,8 +36,8 @@ A arquitetura foi estruturada para atender aos requisitos de Edge Computing e co
 ---
 
 ## 🔗 Links Oficiais da Entrega
-* 📹 **Vídeo de Apresentação (Storytelling):** [INSERIR LINK DO VÍDEO DO YOUTUBE AQUI]
-* ⚙️ **Projeto no Wokwi (Circuito e Código):** [[INSERIR LINK DO WOKWI AQUI](https://wokwi.com/projects/466202907724236801)]
+* 📹 **Vídeo de Apresentação (Storytelling):** https://youtu.be/ptCIa91YxG4
+* ⚙️ **Projeto no Wokwi (Circuito e Código):** https://wokwi.com/projects/466202907724236801
 
 ---
 
